@@ -582,7 +582,7 @@ clear
 }
 
 res4() {
-wget https://raw.githubusercontent.com/scblackmarket/VIP/main/sshws/insshws.sh && chmod +x insshws.sh && ./insshws.sh
+wget https://sc.siluman.cloud/sshws/insshws.sh && chmod +x insshws.sh && ./insshws.sh
 clear
 }
 
