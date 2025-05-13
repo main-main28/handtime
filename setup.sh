@@ -582,7 +582,7 @@ clear
 }
 
 res4() {
-wget https://sc.siluman.cloud/sshws/insshws.sh && chmod +x insshws.sh && ./insshws.sh
+wget https://sc.bandarvpn.cloud/sshws/insshws.sh && chmod +x insshws.sh && ./insshws.sh
 clear
 }
 
